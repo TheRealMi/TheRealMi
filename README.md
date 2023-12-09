@@ -6,9 +6,6 @@ I like to think of myself as a "renaissance woman" or "Jill of all Trades" if yo
 # My Background 🎮🦊
 I have always been drawn to tech. From founding a nationally competitive robotics club in high-school, to taking elective courses in Python and Game Development in college, to implementing systems to aid in my original career field of Animal Science, the tech field has forever remained relevant to me. In 2018 I graduated from Cornell University with a B.S. in Animal Science, and I worked in that field for about 6 years before realizing I needed a change. Now, I seek to bring my background, skills, and passions to a new career path in software engineering. 
 
-# My Pronouns 👩‍💻 
-She/her
-
 # Call me, beep me, if you wanna reach me 📱 
 Actually, you can contact me via LinkedIn or email which can be found below my profile picture
 
